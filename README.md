@@ -5,7 +5,7 @@
 - [ ] The Builder
 - [ ] Chain of Responsibility
 - [ ] The Command
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 - [ ] Event Agregator
 - [ ] Facade
